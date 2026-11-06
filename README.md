@@ -1,4 +1,4 @@
-# Olá, sou RB. Dev 👋
+# Olá, sou Rafael B. Dev 👋
 
 Sou desenvolvedor do **3DE**, um ambiente acadêmico de modelagem CAD 3D paramétrica que funciona diretamente no navegador.
 
